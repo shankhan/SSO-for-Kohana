@@ -1,4 +1,4 @@
 Single sign-on (SSO) module is written to share the user session infomation across multiple domains (using Kohana 3.2 or above).
 It is based on Adrian Pawlik's implementation of Single Sign On for PHP (@http://www.jasny.net/articles/simple-single-sign-on-for-php/)
 
-To see installation instructions please visit http://www.zeeshanmkhan.com/post/12/php-single-sign-on-module-for-kohana
+To see installation instructions please visit http://www.zeeshanmkhan.com/post/12/php-single-sign-on-sso-module-for-kohana
